@@ -32,7 +32,7 @@
     "grunt-contrib-clean": "~0.4.0",
     "grunt-contrib-jshint": "~0.1.1",
     "grunt-contrib-nodeunit": "^0.4.1",
-    "lodash": "4.17.12"
+    "lodash": "4.17.20"
   },
   "keywords": [
     "gruntplugin",
@@ -42,7 +42,7 @@
     "break"
   ],
   "dependencies": {
-    "cache-breaker": "0.0.4",
+    "cache-breaker": "git+https://github.com/Lasso-Marketing/cache-breaker.git",
     "lodash.clonedeep": "^3.0.2"
   }
 }
